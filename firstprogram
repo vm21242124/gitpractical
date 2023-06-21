@@ -1,0 +1,4 @@
+echo this is first program of git 
+echo you can set user 
+echo git config --global user.name "your user name"
+echo git config --global user.email "your email"
