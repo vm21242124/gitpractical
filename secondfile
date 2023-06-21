@@ -1,0 +1,3 @@
+echo we can create new branch just using git branch branch name
+echo we can switch to branch using git checkout branch name
+
